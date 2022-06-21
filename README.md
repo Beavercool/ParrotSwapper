@@ -6,6 +6,6 @@
 
 ### result
 
-![result](swap1.png)
-![result](swap2.png)
-![result](swapclose.png)
+![result](Swap1.png)
+![result](Swap2.png)
+![result](Swapclose.png)
